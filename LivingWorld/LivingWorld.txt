@@ -1,0 +1,1 @@
+Program implementujący dwuwymiarowy świat w C++.
